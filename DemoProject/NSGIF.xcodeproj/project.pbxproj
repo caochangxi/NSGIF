@@ -45,6 +45,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		6E6593B4299102BA000B9D5B /* Gif */ = {isa = PBXFileReference; lastKnownFileType = wrapper; name = Gif; path = ../Gif; sourceTree = "<group>"; };
 		9A2069F01B9D0AEE00E886E8 /* video.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = video.mp4; sourceTree = "<group>"; };
 		9A2069F51B9D138500E886E8 /* WebKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = WebKit.framework; path = Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.10.sdk/System/Library/Frameworks/WebKit.framework; sourceTree = DEVELOPER_DIR; };
 		9A7C0A341B9262A800556C5A /* NSGIF.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NSGIF.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -112,6 +113,7 @@
 		9A7C0A2B1B9262A800556C5A = {
 			isa = PBXGroup;
 			children = (
+				6E6593B4299102BA000B9D5B /* Gif */,
 				9AF8884B1B985F5B005E0F14 /* NSGIF.h */,
 				9AF8884C1B985F5B005E0F14 /* NSGIF.m */,
 				9A2069F01B9D0AEE00E886E8 /* video.mp4 */,
@@ -319,6 +321,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
